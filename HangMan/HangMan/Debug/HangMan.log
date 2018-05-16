@@ -1,0 +1,11 @@
+﻿  HangMan.cpp
+c:\users\angry\source\repos\hangman\hangman\hangman.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\angry\source\repos\hangman\hangman\hangman.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\angry\source\repos\hangman\hangman\hangman.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\angry\source\repos\hangman\hangman\hangman.cpp(36): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\angry\source\repos\hangman\hangman\hangman.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\angry\source\repos\hangman\hangman\hangman.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\angry\source\repos\hangman\hangman\hangman.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\angry\source\repos\hangman\hangman\hangman.cpp(138): warning C4129: ' ': unrecognized character escape sequence
+c:\users\angry\source\repos\hangman\hangman\hangman.cpp(48): warning C4715: 'PlayHangman::GuessCheck': not all control paths return a value
+  HangMan.vcxproj -> C:\Users\angry\source\repos\HangMan\Debug\HangMan.exe
